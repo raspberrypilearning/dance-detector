@@ -15,7 +15,7 @@ title: What you will need
 - Access to this link
 [https://ml.microbit.org](https://ml.microbit.org)
 - A micro:bit v2
-- A battery pack and 2 x AAA batteries 
+- A micro:bit battery pack and 2 x AAA batteries 
 - USB cable
 
 --- /collapse ---

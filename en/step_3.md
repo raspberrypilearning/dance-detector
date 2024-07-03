@@ -53,12 +53,7 @@ It is important you always hold the micro:bit the same way.
 
 Hold you micro:bit and battery pack together in your hand. 
 
-Keep your thumb along the logo edge and hold it so the logo is pointing towards you and the long edge is nearest your body.
-
-<video width="480" height="640" controls>
-  <source src="images/hold.mp4" type="video/mp4" alt="Video showing how to hold the micro:bit">
-Your browser does not support the video tag.
-</video>
+**Remember** how you hold it. Make sure you hold it like this later in this project.
 
 --- /task ---
 
@@ -107,32 +102,6 @@ This example shows a `Floss` action - but you can do whatever action you want!
   <source src="images/floss.mp4" type="video/mp4" alt="A video of young person recording samples of a dance move">
 Your browser does not support the video tag.
 </video>
-
---- /task ---
-
-### Train model
-
-### Test model
-
-
-Gather images of `five` fingers.
-
---- task ---
-
-- Click **Webcam** in the `Five` class
-- Hold up five fingers to your webcam (make sure your whole hand is in view)
-- With your other hand, press and hold the **Hold to Record** button to gather lots of images
-
---- /task ---
-
-
-Gather images of `three` fingers.
-
---- task ---
-
-- Click **Webcam** in the `Three` class
-- Hold up three fingers to your webcam (make sure your whole hand is in view)
-- With your other hand, press and hold the **Hold to Record** button to gather lots of images
 
 --- /task ---
 
