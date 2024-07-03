@@ -1,23 +1,8 @@
-## Step title
+## Video guide
 
-Add an introductory sentence. What will learners achieve by the end of this step?
+<video width="640" height="480" controls>
+  <source src="images/dance-detector-guide.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
---- task ---
-
-If working **online**, open the [starter project](https://rpf.io/p/en/projectName-on){:target="_blank"} in Scratch.
- 
-If working **offline**, open the project [starter file](https://rpf.io/p/en/projectName-get){:target="_blank"} in the Scratch offline editor. If you need to download and install Scratch, you can find it [here](https://scratch.mit.edu/download){:target="_blank"}.
-
-You should see...
- 
-![starter project](images/starter_project.png)
-
---- /task ---
-
---- task ---
-
-Step content...
-
---- /task ---
-
---- save ---
+Access the online platform here: [https://ml.microbit.org](https://ml.microbit.org)
