@@ -1,6 +1,6 @@
 ## Video guide
 
-<video width="640" height="480" controls>
+<video width="960" height="540" controls>
   <source src="images/dance-detector-tutorial-sub-480.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
