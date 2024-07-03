@@ -65,7 +65,7 @@ Press button B, wait for the countdown, then make your first 2-second action.
 
 This example shows a `Disco` action - but you can do whatever action you want!
 
-<video width="480" height="640" controls>
+<video width="540" height="960" controls>
   <source src="images/disco.mp4" type="video/mp4" alt="A video of young person recording samples of a dance move">
 Your browser does not support the video tag.
 </video>
@@ -98,7 +98,7 @@ Add samples of your second action, until you have at least **10 samples**.
 
 This example shows a `Floss` action - but you can do whatever action you want!
 
-<video width="480" height="640" controls>
+<video width="540" height="960" controls>
   <source src="images/floss.mp4" type="video/mp4" alt="A video of young person recording samples of a dance move">
 Your browser does not support the video tag.
 </video>
@@ -117,7 +117,7 @@ Click the blue **Train model** button on the new page, too.
 
 --- /task ---
 
-<video width="640" height="480" controls>
+<video width="960" height="540" controls>
   <source src="images/train.mp4" type="video/mp4" alt="A screen recording showing the model training progress">
 Your browser does not support the video tag.
 </video>
@@ -134,7 +134,7 @@ You will see confidence (**certainty**) scores for your actions.
 
 --- /task ---
 
-<video width="640" height="480" controls>
+<video width="960" height="540" controls>
   <source src="images/discotest.mp4" type="video/mp4" alt="A screen recording showing the estimated action during testing">
 Your browser does not support the video tag.
 </video>
