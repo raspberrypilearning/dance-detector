@@ -148,7 +148,7 @@ Click the blue **Train model** button on the new page, too.
 
 --- /task ---
 
-<video width="480" height="640" controls>
+<video width="640" height="480" controls>
   <source src="images/train.mp4" type="video/mp4" alt="A screen recording showing the model training progress">
 Your browser does not support the video tag.
 </video>
