@@ -7,10 +7,13 @@ copyedit: false
 last_tested: "2024-07-02"
 steps:
   - title: What you will make
-  - title: Video guide
+  - title: Set up your project
     completion:
     - engaged
-  - title: Step-by-step guide
+  - title: Add samples
+  - title: Train the model
     completion:
     - internal
-  - title: What can I do now?
+  - title: What can you do now?
+    completion:
+    - external

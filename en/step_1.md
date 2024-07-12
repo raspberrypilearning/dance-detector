@@ -2,20 +2,14 @@
 
 Train a computer to help you perfect a dance move!
 
+**TODO** Add trailer video
 <video width="960" height="540" controls>
   <source src="images/step1.mp4" type="video/mp4" alt="A machine learning model estimates which dance move is being performed by a young person">
 Your browser does not support the video tag.
 </video>
 
---- collapse ---
----
-title: What you will need
----
 
-- Access to this link
-[https://ml.microbit.org](https://ml.microbit.org)
-- A micro:bit v2
+You will need:
+- A micro:bit
 - A micro:bit battery pack and 2 x AAA batteries 
 - USB cable
-
---- /collapse ---
