@@ -1,6 +1,6 @@
 ## Set up your project
 
-<iframe width="1024" height="760" src="https://www.youtube.com/embed/RWGJHva0Njs?si=VOcfwoVD_-WQWdVU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="960" height="540" src="https://www.youtube.com/embed/RWGJHva0Njs?si=VOcfwoVD_-WQWdVU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 --- collapse ---
 ---
