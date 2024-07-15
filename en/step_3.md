@@ -1,15 +1,14 @@
 ## Add samples
 
-**TODO**ADD PART 2
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RWGJHva0Njs?si=VOcfwoVD_-WQWdVU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/MtmxrXb_9Vo?rel=0&cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 --- collapse ---
 ---
 title: I cannot access YouTube
 ---
 
-<video width="960" height="540" controls>
-  <source src="images/dance-detector-part2.mp4" type="video/mp4">
+<video width="640" height="360" controls>
+  <source src="images/Dance detector Part 2 subs.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -62,7 +61,7 @@ Press button B, wait for the countdown, then make your first 2-second action.
 
 This example shows a `Disco` action - but you can do whatever action you want!
 
-<video width="540" height="960" controls>
+<video width="360" height="640" controls>
   <source src="images/disco.mp4" type="video/mp4" alt="A video of young person recording samples of a dance move">
 Your browser does not support the video tag.
 </video>
@@ -95,7 +94,7 @@ Add samples of your second action, until you have at least **10 samples**.
 
 This example shows a `Floss` action - but you can do whatever action you want!
 
-<video width="540" height="960" controls>
+<video width="360" height="640" controls>
   <source src="images/floss.mp4" type="video/mp4" alt="A video of young person recording samples of a dance move">
 Your browser does not support the video tag.
 </video>
