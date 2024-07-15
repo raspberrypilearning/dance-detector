@@ -2,9 +2,8 @@
 
 Train a computer to help you perfect a dance move!
 
-**TODO** Add trailer video
-<video width="640" height="360" controls>
-  <source src="images/step1.mp4" type="video/mp4" alt="A machine learning model estimates which dance move is being performed by a young person">
+<video width="360" height="640" controls>
+  <source src="images/WYWM.mp4" type="video/mp4" alt="A machine learning model estimates which dance move is being performed by a young person">
 Your browser does not support the video tag.
 </video>
 
