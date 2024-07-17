@@ -63,7 +63,7 @@ Each action can be 2 seconds long.
 
 Press button B, wait for the countdown, then make your first 2-second action.
 
-This example shows a `Disco` action - but you can do whatever action you want!
+This example shows a `Disco` action, but you can do whatever action you want!
 
 <video width="360" height="640" controls>
   <source src="images/disco.mp4" type="video/mp4" alt="A video of young person recording samples of a dance move">
@@ -84,7 +84,7 @@ Add more samples of your first action, until you have at least **10 samples**.
 
 --- task ---
 
-Click the blue `+Add action` button.
+Click the blue **+ Add action** button.
 
 Name the **second** action.
 
@@ -96,7 +96,7 @@ Our example uses the name `Floss`.
 
 Add samples of your second action, until you have at least **10 samples**.
 
-This example shows a `Floss` action - but you can do whatever action you want!
+This example shows a `Floss` action, but you can do whatever action you want!
 
 <video width="360" height="640" controls>
   <source src="images/floss.mp4" type="video/mp4" alt="A video of young person recording samples of a dance move">
