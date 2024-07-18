@@ -2,10 +2,11 @@
 
 Train a computer to help you perfect a dance move!
 
-<video width="360" height="640" controls>
-  <source src="images/WYWM.mp4" type="video/mp4" alt="A machine learning model estimates which dance move is being performed by a young person">
-Your browser does not support the video tag.
-</video>
+<html>
+<div style="position: relative; width: 100%; overflow: hidden; padding-top: 177.78%;">
+<p><iframe style="position: absolute; top: 0; left: 0; right: 0; width: 50%; height: 50%; border: none;" src="https://www.youtube.com/embed/p3ZD3kH8yrQ?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe></p>
+</div>
+</html>
 
 You will need:
 - A micro:bit
