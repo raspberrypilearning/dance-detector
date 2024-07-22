@@ -24,7 +24,7 @@ You will use an online machine learning platform.
 
 --- task ---
 
-Open [https://ml.microbit.org](https://ml.microbit.org).
+Open [https://ml.microbit.org](https://ml.microbit.org){:target="_blank"}.
 
 --- /task ---
 
