@@ -6,18 +6,6 @@
   </div>
 </html>
 
---- collapse ---
----
-title: I cannot access YouTube
----
-
-<video width="640" height="360" controls>
-  <source src="images/Dance-detector-Part-2-subs.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-
---- /collapse ---
-
 ### Add an action
 
 --- task ---
