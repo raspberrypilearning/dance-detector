@@ -7,6 +7,16 @@ Train a computer to help you perfect a dance move!
     </iframe>    
 </html>
 
+--- collapse ---
+---
+title: No YouTube? Download the videos!
+---
+
+You can download all the videos for this project, including the above video [by clicking here](https://rpf.io/p/en/dance-detector-go){:target="_blank"}. 
+
+
+--- /collapse ---
+
 You will need:
 - A micro:bit
 - A micro:bit battery pack and 2 x AAA batteries 
