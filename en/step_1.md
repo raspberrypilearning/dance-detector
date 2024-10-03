@@ -10,9 +10,10 @@ Train a computer to help you perfect a dance move!
 title: Where are my images stored?
 ---
 
-- This project uses a technology called 'machine learning'. Machine learning systems are trained using a large amount of data. 
-- Our projects do not require you to create an account or log in. For our projects, the image examples you use to make the model are only stored temporarily in your browser (only on your machine).
+- This project uses a technology called 'machine learning'. Machine learning systems are trained using a large amount of data﻿. 
+- This project does not require you to create an account or log in. For this project, the image examples you use to make the model are only stored temporarily in your browser (only on your machine).
 - No images from your webcam are sent to this website or any other website. 
+
 --- /collapse ---
 
 
@@ -22,7 +23,7 @@ title: Where are my images stored?
 title: No YouTube? Download the videos!
 ---
 
-You can download all the videos for this project [by clicking here](https://rpf.io/p/en/dance-detector-go){:target="_blank"}. 
+You can [download all the videos for this project](https://rpf.io/p/en/dance-detector-go){:target="_blank"}. 
 
 
 --- /collapse ---
