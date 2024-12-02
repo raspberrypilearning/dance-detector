@@ -12,7 +12,7 @@ You will use an online machine learning platform.
 
 --- task ---
 
-Open [https://ml.microbit.org](https://ml.microbit.org){:target="_blank"}.
+Open [https://ml.microbit.org](https://ml.microbit.org/thenextgen){:target="_blank"}.
 
 --- /task ---
 
