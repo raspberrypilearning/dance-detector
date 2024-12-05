@@ -2,7 +2,7 @@
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
-    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/9VGJS8zDzAQ?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/wCOEoAI2X28?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
   </div>
 </html>
 
@@ -20,21 +20,6 @@ Our example uses the name `Disco`.
 
 ### Add data samples
 
---- task ---
-
-Connect your micro:bit to battery power.
-
---- /task ---
-
---- collapse ---
----
-title: I do not have a battery pack
----
-
-You can keep your micro:bit connected using USB, but the cable needs to be long enough to allow you to move freely with it.
-
---- /collapse ---
-
 It is important you always hold the micro:bit the same way.
 
 --- task ---
@@ -45,11 +30,11 @@ Hold you micro:bit and battery pack together in your hand.
 
 --- /task ---
 
-Each action can be 2 seconds long.
+Each action can be 1 second long.
 
 --- task ---
 
-Press button B, wait for the countdown, then make your first 2-second action.
+Press button B, wait for the countdown, then make your first 1-second action.
 
 This example shows a `Disco` action, but you can do whatever action you want!
 
