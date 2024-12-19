@@ -1,4 +1,4 @@
-## Train the model
+## Train het model
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -8,26 +8,26 @@
 
 \--- task ---
 
-Click the blue **Train model** button.
+Klik op de blauwe knop **Train model**.
 
-![The 'Train model' button.](images/train-model-button.png)
+![De 'Train Model' knop.](images/train-model-button.png)
 
 \--- /task ---
 
-### Preview and test
+### Preview en test
 
-See if your model can recognise your dance moves!
+Kijk of jouw model jouw dansbewegingen herkent!
 
 \--- task ---
 
-Perform one of your actions and see what your model predicts (**estimates**) the action is.
+Voer een van je acties uit en kijk wat jouw model voorspelt dat de actie is (**estimated action**).
 
-You will see confidence (**certainty**) scores for your actions.
+Je ziet de betrouwbaarheidsscores (**certainty**) voor je acties.
 
 \--- /task ---
 
 <video width="640" height="360" controls>
   <source src="images/discotest.mp4" type="video/mp4" alt="A screen recording showing the estimated action during testing with an overlay of a boy performing the dance move">
   
-Your browser does not support the video tag.
+Je browser ondersteunt de video tag niet.
 </video>
