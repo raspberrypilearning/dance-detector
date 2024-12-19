@@ -1,4 +1,4 @@
-## Set up your project
+## Stel je project in
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,9 +6,9 @@
   </div>
 </html>
 
-### Create a new session
+### Een nieuwe sessie aanmaken
 
-You will use an online machine learning platform.
+Je gaat een online machine learning platform gebruiken.
 
 \--- task ---
 
@@ -18,22 +18,22 @@ Open [https://createai.microbit.org](https://createai.microbit.org/){:target="_b
 
 \--- task ---
 
-Click **Get started**
+Klik op **Get started**
 
 \--- /task ---
 
-You will use your micro:bit to sense your movements and send the data to the online machine learning platform.
+Je gaat je micro:bit gebruiken om je bewegingen te registreren en de data naar het online machine learning platform te sturen.
 
 \--- task ---
 
-Click **New session** and follow the instructions to connect your micro:bit.
+Klik op **New session** en volg de instructies om verbinding te maken met je micro:bit.
 
 \--- /task ---
 
 ## --- collapse ---
 
-## title: I do not have a battery pack
+## title: Ik heb geen batterijpakket
 
-You can keep your micro:bit connected using USB, but the cable needs to be long enough to allow you to move freely with it.
+Je kunt je micro:bit aangesloten houden via een USB kabel, maar de kabel moet lang genoeg zijn zodat je er vrij mee kunt bewegen.
 
 \--- /collapse ---
