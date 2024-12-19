@@ -1,24 +1,24 @@
-title: Dance detector
+title: Dans detector
 hero_image: images/banner.png
-description: Train a computer to help you perfect a dance move!
+description: Leer een computer om jou te helpen een dansbeweging te perfectioneren!
 version: 4
 listed: false
 copyedit: true
 last_tested: "2024-07-02"
 steps:
   - 
-    title: What you will make
+    title: Wat je gaat maken
   - 
-    title: Set up your project
+    title: Stel je project in
     completion:
       - engaged
   - 
-    title: Add samples
+    title: Voeg voorbeelden toe
   - 
-    title: Train the model
+    title: Train het model
     completion:
       - internal
   - 
-    title: What can you do now?
+    title: Wat kun je nu doen?
     completion:
       - external
