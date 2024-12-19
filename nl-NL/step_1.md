@@ -1,20 +1,20 @@
-## What you will make
+## Wat je gaat maken
 
-![A machine learning interface testing a model for action recognition. In the center of the screen, a young boy is performing the "Disco" dance move, with one arm pointing upward. On the left side of the screen, the interface displays two possible recognised actions: "Disco" with a 95% certainty score and "Floss" with a 5% certainty score. At the bottom of the interface, a live graph with different colored lines tracks movement data. The interface indicates that the model has accurately identified the boy's action as "Disco" with high confidence. The top of the interface includes the steps: "1. Add data, 2. Train model, 3. Test model."](images/wywm.png)
+![Een machine learning interface die een model test voor het herkennen van acties. In het midden van het scherm voert een jonge jongen de "Disco" dansbeweging uit, met één arm naar boven. Aan de linkerkant van het scherm geeft de interface twee mogelijke herkende acties weer: 'Disco' met een zekerheidsscore van 95% en 'Floss' met een zekerheidsscore van 5%. Onderaan de interface wordt een live grafiek met verschillende gekleurde lijnen weergegeven die de bewegingsgegevens bijhoudt. De interface geeft aan dat het model de actie van de jongen met grote zekerheid heeft geïdentificeerd als "Disco". Bovenaan de interface staan de stappen: "1. Gegevens toevoegen, 2. Model trainen, 3. Model testen."](images/wywm.png)
 
-Train a computer to help you perfect a dance move!
+Leer een computer om jou te helpen een dansbeweging te perfectioneren!
 
 ## --- collapse ---
 
-## title: No YouTube? Download the videos!
+## title: Geen YouTube? Download de video's!
 
-You can [download all the videos for this project](https://rpf.io/p/en/dance-detector-go){:target="_blank"}.
+Je kunt [alle video's voor dit project downloaden](https://rpf.io/p/en/dance-detector-go){:target="_blank"}.
 
 \--- /collapse ---
 
-You will need:
+Je hebt nodig:
 
-- A micro:bit V2
-- A micro:bit battery pack and 2 x AAA batteries
-- USB cable
-- A web browser that supports WebUSB so you can connect directly to your micro:bit. We recommend using Google Chrome or Microsoft Edge.
+- Een micro:bit V2
+- Een micro:bit batterijpakket en 2 x AAA batterijen
+- USB kabel
+- Een webbrowser die WebUSB ondersteunt zodat je direct verbinding kunt maken met je micro:bit. Wij raden je aan Google Chrome of Microsoft Edge te gebruiken.
