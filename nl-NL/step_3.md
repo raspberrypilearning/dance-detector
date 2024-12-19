@@ -1,4 +1,4 @@
-## Add samples
+## Voeg voorbeelden toe
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,76 +6,76 @@
   </div>
 </html>
 
-### Add an action
+### Een actie toevoegen
 
 \--- task ---
 
-Name the **first** action.
+Geef de **eerste** actie een naam.
 
-Our example uses the name `Disco`.
+In ons voorbeeld gebruiken we de naam `Disco`.
 
-![Screenshot showing the name of an action](images/action.png)
+![Screenshot met de naam van een actie](images/action.png)
 
 \--- /task ---
 
-### Add data samples
+### Voeg data voorbeelden toe
 
-It is important you always hold the micro:bit the same way.
+Het is belangrijk dat je de micro:bit altijd op dezelfde manier vasthoudt.
 
 \--- task ---
 
-Hold you micro:bit and battery pack together in your hand.
+Houd je micro:bit en batterijpakket samen in je hand.
 
-**Remember** how you hold it. Make sure you hold it like this later in this project.
+**Onthoud** hoe je het vasthoudt. Zorg ervoor dat je het later in dit project precies op dezelfde manier vasthoudt.
 
 \--- /task ---
 
-Each action can be 1 second long.
+Elke actie kan 1 seconde duren.
 
 \--- task ---
 
-Press button B, wait for the countdown, then make your first 1-second action.
+Druk op knop B, wacht op het aftellen, en voer dan je eerste 1-seconde actie uit.
 
-This example shows a `Disco` action, but you can do whatever action you want!
+Dit voorbeeld toont een 'Disco' actie, maar je kunt ook zelf een beweging bedenken!
 
 <video width="360" height="640" controls>
   <source src="images/disco.mp4" type="video/mp4" alt="A video of young person recording samples of a dance move">
   
-Your browser does not support the video tag.
+Je browser ondersteunt de video tag niet.
 </video>
 
 \--- /task ---
 
 \--- task ---
 
-Add more samples of your first action, until you have at least **10 samples**.
+Voeg meer voorbeelden van je eerste actie toe, totdat je tenminste **10 voorbeelden** hebt.
 
-![Screenshot showing 10 samples of an action](images/disco10.png)
-
-\--- /task ---
-
-### Add a second action
-
-\--- task ---
-
-Click the blue **+ Add action** button.
-
-Name the **second** action.
-
-Our example uses the name `Floss`.
+![Screenshot met 10 voorbeelden van een actie](images/disco10.png)
 
 \--- /task ---
 
+### Voeg een tweede actie toe
+
 \--- task ---
 
-Add samples of your second action, until you have at least **10 samples**.
+Klik op de blauwe knop **+Add action**.
 
-This example shows a `Floss` action, but you can do whatever action you want!
+Geef de **tweede** actie een naam.
+
+In ons voorbeeld gebruiken we de naam `Floss`.
+
+\--- /task ---
+
+\--- task ---
+
+Voeg meer voorbeelden van je tweede actie toe, totdat je ten minste **10 voorbeelden** hebt.
+
+Dit voorbeeld toont een 'Floss' actie, maar je kunt ook zelf een beweging bedenken!
 
 <video width="360" height="640" controls>
   <source src="images/floss.mp4" type="video/mp4" alt="A video of young person recording samples of a dance move">
   
-Your browser does not support the video tag.
+Je browser ondersteunt de video tag niet.
 </video>
 
 \--- /task ---
