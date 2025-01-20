@@ -1,24 +1,24 @@
-title: Dance detector
+title: Детектор танців
 hero_image: images/banner.png
-description: Train a computer to help you perfect a dance move!
+description: Навчи комп’ютер допомагати тобі вдосконалювати танцювальні рухи!
 version: 4
 listed: false
 copyedit: true
 last_tested: "2024-07-02"
 steps:
   - 
-    title: What you will make
+    title: Що ти зробиш
   - 
-    title: Set up your project
+    title: Створи проєкт
     completion:
       - engaged
   - 
-    title: Add samples
+    title: Додай зразки
   - 
-    title: Train the model
+    title: Навчи модель
     completion:
       - internal
   - 
-    title: What can you do now?
+    title: Що ти тепер вмієш?
     completion:
       - external
