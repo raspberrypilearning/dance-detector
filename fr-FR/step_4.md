@@ -1,4 +1,4 @@
-## Train the model
+## Entraîner le modèle
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -8,26 +8,26 @@
 
 \--- task ---
 
-Click the blue **Train model** button.
+Clique sur le bouton bleu **Train model**.
 
-![The 'Train model' button.](images/train-model-button.png)
+![Le bouton "Train model".](images/train-model-button.png)
 
 \--- /task ---
 
-### Preview and test
+### Prévisualiser et tester
 
-See if your model can recognise your dance moves!
+Vois si ton modèle peut reconnaître tes mouvements de danse !
 
 \--- task ---
 
-Perform one of your actions and see what your model predicts (**estimates**) the action is.
+Effectue l'une de tes actions et vois ce que ton modèle prédit (**estimation**) de l'action.
 
-You will see confidence (**certainty**) scores for your actions.
+Tu verras des scores de confiance (**certitude**) pour tes actions.
 
 \--- /task ---
 
 <video width="640" height="360" controls>
   <source src="images/discotest.mp4" type="video/mp4" alt="A screen recording showing the estimated action during testing with an overlay of a boy performing the dance move">
   
-Your browser does not support the video tag.
+Ton navigateur ne prend pas en charge la balise vidéo.
 </video>
