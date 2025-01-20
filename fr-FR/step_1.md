@@ -1,20 +1,20 @@
-## What you will make
+## Ce que tu vas faire
 
-![A machine learning interface testing a model for action recognition. In the center of the screen, a young boy is performing the "Disco" dance move, with one arm pointing upward. On the left side of the screen, the interface displays two possible recognised actions: "Disco" with a 95% certainty score and "Floss" with a 5% certainty score. At the bottom of the interface, a live graph with different colored lines tracks movement data. The interface indicates that the model has accurately identified the boy's action as "Disco" with high confidence. The top of the interface includes the steps: "1. Add data, 2. Train model, 3. Test model."](images/wywm.png)
+![Une interface d'apprentissage automatique testant un modèle de reconnaissance d'actions. Au centre de l'écran, un jeune garçon exécute le mouvement de danse "Disco", avec un bras pointant vers le haut. À gauche de l'écran, l'interface affiche deux actions possibles reconnues : "Disco" avec un score de 95 % de certitude et "Floss" avec un score de 5 %. En bas de l'interface, un graphique en direct avec différentes lignes colorées suit les données de mouvement. L'interface indique que le modèle a identifié avec précision l'action du garçon comme "Disco" avec une grande confiance. Le haut de l'interface comprend les étapes : "1. Ajouter des données, 2. Entraîner le modèle, 3. Tester le modèle."](images/wywm.png)
 
-Train a computer to help you perfect a dance move!
+Entraîne un ordinateur pour t'aider à perfectionner un mouvement de danse !
 
 ## --- collapse ---
 
-## title: No YouTube? Download the videos!
+## title: Pas de YouTube ? Télécharge les vidéos !
 
-You can [download all the videos for this project](https://rpf.io/p/en/dance-detector-go){:target="_blank"}.
+Tu peux [télécharger l'ensemble des vidéos de ce projet](https://rpf.io/p/en/dance-detector-go){:target="_blank"}.
 
 \--- /collapse ---
 
-You will need:
+Tu auras besoin :
 
-- A micro:bit V2
-- A micro:bit battery pack and 2 x AAA batteries
-- USB cable
-- A web browser that supports WebUSB so you can connect directly to your micro:bit. We recommend using Google Chrome or Microsoft Edge.
+- Un Micro:bit V2
+- Une batterie micro:bit et 2 piles AAA
+- Câble USB
+- Un navigateur web qui prend en charge WebUSB pour pouvoir te connecter directement à ton micro:bit. Nous te recommandons d'utiliser Google Chrome ou Microsoft Edge.
