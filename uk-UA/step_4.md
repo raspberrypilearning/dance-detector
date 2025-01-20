@@ -1,4 +1,4 @@
-## Train the model
+## Навчи модель
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -8,26 +8,26 @@
 
 \--- task ---
 
-Click the blue **Train model** button.
+Натисни синю кнопку **Train model** («Навчити модель»).
 
-![The 'Train model' button.](images/train-model-button.png)
+![Кнопка «Навчити модель».](images/train-model-button.png)
 
 \--- /task ---
 
-### Preview and test
+### Попередній перегляд і тестування
 
-See if your model can recognise your dance moves!
+Перевір, чи може твоя модель розпізнавати танцювальні рухи!
 
 \--- task ---
 
-Perform one of your actions and see what your model predicts (**estimates**) the action is.
+Виконай один зі своїх рухів і подивись, що передбачила твоя модель (**estimates**).
 
-You will see confidence (**certainty**) scores for your actions.
+Ти побачиш рівень впевненості (**certainty**) для своїх рухів.
 
 \--- /task ---
 
 <video width="640" height="360" controls>
   <source src="images/discotest.mp4" type="video/mp4" alt="A screen recording showing the estimated action during testing with an overlay of a boy performing the dance move">
   
-Your browser does not support the video tag.
+Твій браузер не підтримує тег video.
 </video>
