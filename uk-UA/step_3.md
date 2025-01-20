@@ -1,4 +1,4 @@
-## Add samples
+## Додай зразки
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,76 +6,76 @@
   </div>
 </html>
 
-### Add an action
+### Додай рух
 
 \--- task ---
 
-Name the **first** action.
+Назви свій **перший** рух.
 
-Our example uses the name `Disco`.
+У нашому прикладі використовується назва «диско».
 
-![Screenshot showing the name of an action](images/action.png)
+![Знімок екрану з назвою руху](images/action.png)
 
 \--- /task ---
 
-### Add data samples
+### Додай зразки даних
 
-It is important you always hold the micro:bit the same way.
+Важливо завжди тримати micro:bit однаково.
 
 \--- task ---
 
-Hold you micro:bit and battery pack together in your hand.
+Тримай micro:bit і акумулятор разом у руці.
 
-**Remember** how you hold it. Make sure you hold it like this later in this project.
+**Запам’ятай**, як ти його тримаєш. Пізніше в цьому проєкті треба буде тримати його так само.
 
 \--- /task ---
 
-Each action can be 1 second long.
+Кожен рух може тривати 1 секунду.
 
 \--- task ---
 
-Press button B, wait for the countdown, then make your first 1-second action.
+Натисни кнопку B, дочекайся зворотного відліку, а потім виконай свій перший 1-секундний рух.
 
-This example shows a `Disco` action, but you can do whatever action you want!
+У цьому прикладі показаний рух «диско», але ти можеш виконати будь-який рух!
 
 <video width="360" height="640" controls>
   <source src="images/disco.mp4" type="video/mp4" alt="A video of young person recording samples of a dance move">
   
-Your browser does not support the video tag.
+Твій браузер не підтримує тег video.
 </video>
 
 \--- /task ---
 
 \--- task ---
 
-Add more samples of your first action, until you have at least **10 samples**.
+Додай більше зразків свого першого руху, поки не отримаєш принаймні **10 зразків**.
 
-![Screenshot showing 10 samples of an action](images/disco10.png)
-
-\--- /task ---
-
-### Add a second action
-
-\--- task ---
-
-Click the blue **+ Add action** button.
-
-Name the **second** action.
-
-Our example uses the name `Floss`.
+![Знімок екрану з 10 зразками руху](images/disco10.png)
 
 \--- /task ---
 
+### Додай другий рух
+
 \--- task ---
 
-Add samples of your second action, until you have at least **10 samples**.
+Натисни синю кнопку **+ Add action** («Додати рух»).
 
-This example shows a `Floss` action, but you can do whatever action you want!
+Назви **другий** рух.
+
+У нашому прикладі використовується назва «флос».
+
+\--- /task ---
+
+\--- task ---
+
+Додай більше зразків другого руху, поки не отримаєш принаймні **10 зразків**.
+
+У цьому прикладі показаний рух «флос», але ти можеш виконати будь-який рух!
 
 <video width="360" height="640" controls>
   <source src="images/floss.mp4" type="video/mp4" alt="A video of young person recording samples of a dance move">
   
-Your browser does not support the video tag.
+Твій браузер не підтримує тег video.
 </video>
 
 \--- /task ---
