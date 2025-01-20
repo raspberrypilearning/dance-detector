@@ -1,4 +1,4 @@
-## Set up your project
+## Створи проєкт
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,34 +6,34 @@
   </div>
 </html>
 
-### Create a new session
+### Створи нову сесію
 
-You will use an online machine learning platform.
+Ти будеш використовувати онлайн-платформу машинного навчання.
 
 \--- task ---
 
-Open [https://createai.microbit.org](https://createai.microbit.org/){:target="_blank"}.
+Відкрий [https://createai.microbit.org](https://createai.microbit.org/){:target="_blank"}.
 
 \--- /task ---
 
 \--- task ---
 
-Click **Get started**
+Натисни **Get started** («Почати»).
 
 \--- /task ---
 
-You will use your micro:bit to sense your movements and send the data to the online machine learning platform.
+Ти будеш використовувати micro:bit, що відчуватиме твої рухи та надсилатиме дані на онлайн-платформу машинного навчання.
 
 \--- task ---
 
-Click **New session** and follow the instructions to connect your micro:bit.
+Натисни **New session** («Нова сесія») і дотримуйся інструкцій, щоб підʼєднати micro:bit.
 
 \--- /task ---
 
 ## --- collapse ---
 
-## title: I do not have a battery pack
+## title: У мене немає акумулятора
 
-You can keep your micro:bit connected using USB, but the cable needs to be long enough to allow you to move freely with it.
+Ти можеш підʼєднати micro:bit за допомогою USB, але кабель має бути достатньо довгим, щоб можна було з ним вільно пересуватися.
 
 \--- /collapse ---
