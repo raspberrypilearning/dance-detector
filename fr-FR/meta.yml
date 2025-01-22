@@ -2,7 +2,7 @@ title: Détecteur de danse
 hero_image: images/banner.png
 description: Entraîne un ordinateur pour t'aider à perfectionner un mouvement de danse !
 version: 4
-listed: false
+listed: true
 copyedit: true
 last_tested: "2024-07-02"
 steps:
@@ -18,7 +18,6 @@ steps:
     title: Entraîner le modèle
     completion:
       - internal
+      - external
   - 
     title: Que peux-tu faire maintenant ?
-    completion:
-      - external
