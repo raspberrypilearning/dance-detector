@@ -2,7 +2,7 @@ title: Детектор танців
 hero_image: images/banner.png
 description: Навчи комп’ютер допомагати тобі вдосконалювати танцювальні рухи!
 version: 4
-listed: false
+listed: true
 copyedit: true
 last_tested: "2024-07-02"
 steps:
@@ -18,7 +18,6 @@ steps:
     title: Навчи модель
     completion:
       - internal
+      - external
   - 
     title: Що ти тепер вмієш?
-    completion:
-      - external
