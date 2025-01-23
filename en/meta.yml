@@ -14,5 +14,6 @@ steps:
   - title: Train the model
     completion:
     - internal
-    - external
   - title: What can you do now?
+    completion: 
+    - external
