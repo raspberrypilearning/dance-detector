@@ -18,6 +18,7 @@ steps:
     title: Навчи модель
     completion:
       - internal
-      - external
   - 
     title: Що ти тепер вмієш?
+    completion:
+      - external
