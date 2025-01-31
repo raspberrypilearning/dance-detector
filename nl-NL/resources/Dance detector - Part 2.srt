@@ -1,20 +1,20 @@
 1
 00:00:02,965 --> 00:00:03,651
-Name the first action
+Geef de eerste actie een naam
 
 2
 00:00:04,417 --> 00:00:04,917
-Press B
+Druk op B
 
 3
 00:00:04,917 --> 00:00:07,604
-and record a one-second sample
+en neem een sample van één seconde op
 
 4
 00:00:07,896 --> 00:00:09,750
-Repeat until you have ten samples
+Herhaal dit totdat je tien voorbeelden hebt
 
 5
 00:00:10,296 --> 00:00:14,831
-Add a second action and record ten samples
+Voeg een tweede actie toe en neem tien voorbeelden op
 
