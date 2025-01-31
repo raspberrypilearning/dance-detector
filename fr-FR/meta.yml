@@ -18,6 +18,7 @@ steps:
     title: Entraîner le modèle
     completion:
       - internal
-      - external
   - 
     title: Que peux-tu faire maintenant ?
+    completion:
+      - internal
