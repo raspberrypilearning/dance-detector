@@ -7,7 +7,7 @@ copyedit: true
 last_tested: "2024-07-02"
 steps:
   - 
-    title: What you will make
+    title: Εισαγωγή
   - 
     title: Set up your project
     completion:
@@ -15,9 +15,10 @@ steps:
   - 
     title: Add samples
   - 
-    title: Train the model
+    title: Εκπαιδεύστε το μοντέλο
     completion:
       - internal
-      - external
   - 
-    title: What can you do now?
+    title: Αναστοχασμός
+    completion:
+      - internal
