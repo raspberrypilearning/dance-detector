@@ -1,23 +1,24 @@
-title: Dance detector
+title: Sensore di ballo
 hero_image: images/banner.png
-description: Train a computer to help you perfect a dance move!
+description: Addestra un computer per aiutarti a perfezionare un passo di danza!
 version: 4
 listed: true
 copyedit: true
 last_tested: "2024-07-02"
 steps:
   - 
-    title: What you will make
+    title: Cosa creerai
   - 
-    title: Set up your project
+    title: Imposta il tuo progetto
     completion:
       - engaged
   - 
-    title: Add samples
+    title: Aggiungi campioni
   - 
-    title: Train the model
+    title: Addestra il modello
     completion:
       - internal
-      - external
   - 
-    title: What can you do now?
+    title: Cosa puoi fare adesso?
+    completion:
+      - external
