@@ -7,7 +7,7 @@ copyedit: true
 last_tested: "2024-07-02"
 steps:
   - 
-    title: What you will make
+    title: Das wirst du machen
   - 
     title: Set up your project
     completion:
@@ -15,9 +15,10 @@ steps:
   - 
     title: Add samples
   - 
-    title: Train the model
+    title: Trainieren des Modells
     completion:
       - internal
-      - external
   - 
-    title: What can you do now?
+    title: Was kannst du jetzt tun?
+    completion:
+      - external
