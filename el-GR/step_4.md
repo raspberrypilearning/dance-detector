@@ -1,4 +1,4 @@
-## Train the model
+## Εκπαιδεύστε το μοντέλο
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
