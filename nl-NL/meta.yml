@@ -1,0 +1,20 @@
+---
+title: Dans detector
+hero_image: images/banner.png
+description: Leer een computer om jou te helpen een dansbeweging te perfectioneren!
+version: 4
+listed: true
+copyedit: true
+last_tested: "2024-07-02"
+steps:
+  - title: Wat je gaat maken
+  - title: Stel je project in
+    completion:
+      - engaged
+  - title: Voeg voorbeelden toe
+  - title: Train het model
+    completion:
+      - internal
+  - title: Wat kun je nu doen?
+    completion:
+      - external
