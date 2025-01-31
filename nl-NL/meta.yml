@@ -18,6 +18,7 @@ steps:
     title: Train het model
     completion:
       - internal
-      - external
   - 
     title: Wat kun je nu doen?
+    completion:
+      - internal
