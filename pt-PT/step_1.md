@@ -1,8 +1,8 @@
 ## O que vais fazer
 
-![A machine learning interface testing a model for action recognition. In the center of the screen, a young boy is performing the "Disco" dance move, with one arm pointing upward. On the left side of the screen, the interface displays two possible recognised actions: "Disco" with a 95% certainty score and "Floss" with a 5% certainty score. At the bottom of the interface, a live graph with different colored lines tracks movement data. The interface indicates that the model has accurately identified the boy's action as "Disco" with high confidence. The top of the interface includes the steps: "1. Add data, 2. Train model, 3. Test model."](images/wywm.png)
+![Uma interface de machine learning a testar um modelo para reconhecimento de ações. No centro do ecrã, um jovem faz o movimento de dança "Disco", com um braço a apontar para cima. No lado esquerdo do ecrã, a interface exibe duas ações que foram possíveis reconhecer: "Disco" com 95% de certeza e "Floss" com 5% de certeza. Na parte de baixo da interface, um gráfico ao vivo rastreia dados de movimento com linhas de cores diferentes. A interface indica que o modelo identificou com precisão que a ação do jovem era "Disco" com um nível de confiança alto. A parte de cima da interface inclui as etapas: "1. Adiciona dados, 2. Treina o modelo, 3. Testa o modelo."](images/wywm.png)
 
-Train a computer to help you perfect a dance move!
+Treina um computador para ajudar-te a aperfeiçoar um passo de dança!
 
 ## --- collapse ---
 
@@ -14,7 +14,7 @@ Podes [descarregar todos os vídeos para este projeto](https://rpf.io/p/en/dance
 
 Vai precisar do seguinte:
 
-- A micro:bit V2
-- A micro:bit battery pack and 2 x AAA batteries
-- USB cable
-- A web browser that supports WebUSB so you can connect directly to your micro:bit. We recommend using Google Chrome or Microsoft Edge.
+- Um micro:bit V2
+- Um pacote de bateria micro:bit e 2 pilhas AAA
+- Cabo USB
+- Um navegador web que suporte WebUSB para que consigas conectar diretamente o teu micro:bit. Recomendamos usar o Google Chrome ou o Microsoft Edge.
