@@ -1,12 +1,12 @@
 1
 00:00:03,617 --> 00:00:07,726
-Train your model
+Addestra il tuo modello
 
 2
 00:00:08,778 --> 00:00:09,324
-Test
+Provalo
 
 3
 00:00:09,328 --> 00:00:13,000
-and see if your model can recognise your dance moves
+e scopri se il tuo modello riesce a riconoscere i tuoi passi di danza
 
