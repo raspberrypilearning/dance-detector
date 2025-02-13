@@ -28,6 +28,6 @@ Je ziet de betrouwbaarheidsscores (**certainty**) voor je acties.
 
 <video width="640" height="360" controls>
   <source src="images/discotest.mp4" type="video/mp4" alt="A screen recording showing the estimated action during testing with an overlay of a boy performing the dance move">
-  
+   
 Je browser ondersteunt de video tag niet.
 </video>
