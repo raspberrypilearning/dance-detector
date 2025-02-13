@@ -1,0 +1,20 @@
+1
+00:00:02,800 --> 00:00:05,397
+Acede a createai.microbit.org
+
+2
+00:00:05,560 --> 00:00:07,425
+e clica em 'Começar'
+
+3
+00:00:07,425 --> 00:00:08,559
+Cria uma nova sessão
+
+4
+00:00:08,559 --> 00:00:11,172
+e segue as instruções para configurar o teu micro:bit
+
+5
+00:00:11,172 --> 00:00:12,124
+[música para terminar...]
+

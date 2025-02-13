@@ -1,0 +1,20 @@
+---
+title: Sensore di ballo
+hero_image: images/banner.png
+description: Addestra un computer per aiutarti a perfezionare un passo di danza!
+version: 4
+listed: true
+copyedit: true
+last_tested: "2024-07-02"
+steps:
+  - title: Cosa creerai
+  - title: Imposta il tuo progetto
+    completion:
+      - engaged
+  - title: Aggiungi campioni
+  - title: Addestra il modello
+    completion:
+      - internal
+  - title: Cosa puoi fare adesso?
+    completion:
+      - external

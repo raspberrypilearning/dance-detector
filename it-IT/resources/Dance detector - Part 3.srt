@@ -1,0 +1,12 @@
+1
+00:00:03,617 --> 00:00:07,726
+Addestra il tuo modello
+
+2
+00:00:08,778 --> 00:00:09,324
+Provalo
+
+3
+00:00:09,328 --> 00:00:13,000
+e scopri se il tuo modello riesce a riconoscere i tuoi passi di danza
+

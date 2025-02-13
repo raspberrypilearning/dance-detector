@@ -1,0 +1,12 @@
+1
+00:00:03,617 --> 00:00:07,726
+Treinar o vosso modelo
+
+2
+00:00:08,778 --> 00:00:09,324
+Testa
+
+3
+00:00:09,328 --> 00:00:13,000
+e vê se o teu modelo reconhece os teus passos de dança
+

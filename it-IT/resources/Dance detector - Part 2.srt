@@ -1,0 +1,20 @@
+1
+00:00:02,965 --> 00:00:03,900
+Dai un nome alla prima azione
+
+2
+00:00:04,417 --> 00:00:04,917
+Premere B
+
+3
+00:00:04,917 --> 00:00:07,604
+e registrare un campione di un secondo
+
+4
+00:00:07,896 --> 00:00:09,750
+Ripeti fino ad avere dieci campioni
+
+5
+00:00:10,296 --> 00:00:14,831
+Aggiungi una seconda azione e registra dieci campioni
+
