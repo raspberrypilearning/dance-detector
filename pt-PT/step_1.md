@@ -8,7 +8,7 @@ Treina um computador para ajudar-te a aperfeiçoar um passo de dança!
 
 ## title: Não tens Youtube? Descarrega estes vídeos!
 
-Podes [descarregar todos os vídeos para este projeto](https://rpf.io/p/en/dance-detector-go){:target="_blank"}.
+Podes [descarregar todos os vídeos para este projeto](https://rpf.io/p/pt-PT/dance-detector-go){:target="_blank"}.
 
 \--- /collapse ---
 
