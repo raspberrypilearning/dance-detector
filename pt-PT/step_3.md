@@ -40,6 +40,7 @@ Este exemplo mostra uma ação `Disco`, mas podes fazer outra ação que tu quis
 
 <video width="360" height="640" controls>
   <source src="images/disco.mp4" type="video/mp4" alt="A video of young person recording samples of a dance move">
+  
 O teu navegador não suporta a tag do vídeo.
 </video>
 
@@ -73,6 +74,7 @@ Este exemplo mostra a ação `Floss`, mas podes fazer outra ação que tu quiser
 
 <video width="360" height="640" controls>
   <source src="images/floss.mp4" type="video/mp4" alt="A video of young person recording samples of a dance move">
+  
 O teu navegador não suporta a tag do vídeo.
 </video>
 
