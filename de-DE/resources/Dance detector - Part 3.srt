@@ -1,6 +1,6 @@
 1
 00:00:03,617 --> 00:00:07,726
-Train your model
+Trainiert das Modell.
 
 2
 00:00:08,778 --> 00:00:09,324
