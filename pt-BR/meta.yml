@@ -1,0 +1,24 @@
+title: Dance detector
+hero_image: images/banner.png
+description: Train a computer to help you perfect a dance move!
+version: 4
+listed: true
+copyedit: true
+last_tested: "2024-07-02"
+steps:
+  - 
+    title: O que você vai fazer
+  - 
+    title: Prepare seu projeto
+    completion:
+      - engaged
+  - 
+    title: Add samples
+  - 
+    title: Crie palavras alienígenas
+    completion:
+      - internal
+  - 
+    title: O que você pode fazer agora?
+    completion:
+      - external
