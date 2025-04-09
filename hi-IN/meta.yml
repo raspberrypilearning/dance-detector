@@ -1,0 +1,24 @@
+title: Dance detector
+hero_image: images/banner.png
+description: Train a computer to help you perfect a dance move!
+version: 4
+listed: true
+copyedit: true
+last_tested: "2024-07-02"
+steps:
+  - 
+    title: भूमिका
+  - 
+    title: Set up your project
+    completion:
+      - engaged
+  - 
+    title: Add samples
+  - 
+    title: एलियन शब्द बनाएं
+    completion:
+      - internal
+  - 
+    title: आगे क्या?
+    completion:
+      - external
