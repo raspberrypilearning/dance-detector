@@ -10,6 +10,8 @@
 
 \--- task ---
 
+Clique sur le bouton bleu **+ Add action**.
+
 Nomme **la première** action.
 
 Nous utilisons le nom `Disco` comme exemple.
