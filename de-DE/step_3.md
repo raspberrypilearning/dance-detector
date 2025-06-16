@@ -10,6 +10,8 @@
 
 \--- task ---
 
+Klicke auf den blauen **+ Add action** Knopf.
+
 Benenne die **erste** Aktion.
 
 Unser Beispiel verwendet den Namen „Disco“.
@@ -24,7 +26,7 @@ Es ist wichtig, dass du den micro:bit immer auf die gleiche Weise hältst.
 
 \--- task ---
 
-Hold your micro:bit and battery pack together in your hand.
+Halte deinen micro:bit und das Akkupack zusammen in deiner Hand fest.
 
 **Merke** dir, wie du ihn hältst. Stelle sicher, dass du sie später in diesem Projekt genauso hältst.
 
