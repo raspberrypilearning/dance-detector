@@ -1,4 +1,4 @@
-## Add samples
+## Dodaj próbki
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -24,7 +24,7 @@ It is important you always hold the micro:bit the same way.
 
 \--- task ---
 
-Hold you micro:bit and battery pack together in your hand.
+Hold your micro:bit and battery pack together in your hand.
 
 **Remember** how you hold it. Make sure you hold it like this later in this project.
 
