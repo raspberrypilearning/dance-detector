@@ -10,7 +10,7 @@
 
 \--- task ---
 
-Clica no botão azul **+ Adicionar ação**.
+Adiciona exemplos da tua segunda ação, até teres pelo menos **10 exemplos**.
 
 Nomeia a **primeira** ação.
 
