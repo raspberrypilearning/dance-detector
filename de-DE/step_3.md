@@ -28,7 +28,7 @@ Es ist wichtig, dass du den micro:bit immer auf die gleiche Weise hältst.
 
 Halte deinen micro:bit und das Akkupack zusammen in deiner Hand fest.
 
-**Merke** dir, wie du ihn hältst. Stelle sicher, dass du sie später in diesem Projekt genauso hältst.
+**Merke** dir, wie du ihn hältst. Stelle sicher, dass du ihn später in diesem Projekt genauso hältst.
 
 \--- /task ---
 
