@@ -1,4 +1,4 @@
-## Add samples
+## Füge Beispiele hinzu
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,76 +6,70 @@
   </div>
 </html>
 
-### Add an action
+### Füge eine Aktion hinzu
 
 \--- task ---
 
-Name the **first** action.
+Benenne die **erste** Aktion.
 
-Our example uses the name `Disco`.
+Unser Beispiel verwendet den Namen „Disco“.
 
-![Screenshot showing the name of an action](images/action.png)
+![Screenshot, der den Namen einer Aktion zeigt](images/action.png)
 
 \--- /task ---
 
-### Add data samples
+### Füge Datensätze hinzu
 
-It is important you always hold the micro:bit the same way.
+Es ist wichtig, dass du den micro:bit immer auf die gleiche Weise hältst.
 
 \--- task ---
 
-Hold you micro:bit and battery pack together in your hand.
+Hold your micro:bit and battery pack together in your hand.
 
-**Remember** how you hold it. Make sure you hold it like this later in this project.
+**Merke** dir, wie du ihn hältst. Stelle sicher, dass du sie später in diesem Projekt genauso hältst.
 
 \--- /task ---
 
-Each action can be 1 second long.
+Jede Aktion kann 1 Sekunde lang sein.
 
 \--- task ---
 
-Press button B, wait for the countdown, then make your first 1-second action.
+Drücke die Taste B, warte den Countdown ab und nehme dann deine erste 1-Sekunden-Aktion auf.
 
-This example shows a `Disco` action, but you can do whatever action you want!
+Dieses Beispiel zeigt eine „Disco“-Aktion, du kannst jedoch jede beliebige Aktion aufnehmen!
 
 <video width="360" height="640" controls>
-  <source src="images/disco.mp4" type="video/mp4" alt="A video of young person recording samples of a dance move">
-  
-Your browser does not support the video tag.
-</video>
+  <source src="images/disco.mp4" type="video/mp4" alt="A video of young person recording samples of a dance move">Dein Browser unterstützt dieses Video-Element nicht.</video>
 
 \--- /task ---
 
 \--- task ---
 
-Add more samples of your first action, until you have at least **10 samples**.
+Erstelle weitere Aufnahmen für deine erste Aktion, bis du mindestens **10 Aufnahmen** hast.
 
-![Screenshot showing 10 samples of an action](images/disco10.png)
-
-\--- /task ---
-
-### Add a second action
-
-\--- task ---
-
-Click the blue **+ Add action** button.
-
-Name the **second** action.
-
-Our example uses the name `Floss`.
+![Screenshot mit 10 Aufnahmen einer Aktion](images/disco10.png)
 
 \--- /task ---
 
+### Füge eine zweite Aktion hinzu
+
 \--- task ---
 
-Add samples of your second action, until you have at least **10 samples**.
+Klicke auf den blauen **+ Add action** Knopf.
 
-This example shows a `Floss` action, but you can do whatever action you want!
+Benenne die **zweite** Aktion.
+
+Unser Beispiel verwendet den Namen „Floss“ (Zahnseide).
+
+\--- /task ---
+
+\--- task ---
+
+Füge Aufnahmen von deiner zweiten Aktion hinzu, bis du mindestens **10 Aufnahmen** hast.
+
+Dieses Beispiel zeigt eine „Floss“-Aktion, du kannst jedoch jede beliebige Aktion aufnehmen!
 
 <video width="360" height="640" controls>
-  <source src="images/floss.mp4" type="video/mp4" alt="A video of young person recording samples of a dance move">
-  
-Your browser does not support the video tag.
-</video>
+  <source src="images/floss.mp4" type="video/mp4" alt="A video of young person recording samples of a dance move">Dein Browser unterstützt dieses Video-Element nicht.</video>
 
 \--- /task ---
