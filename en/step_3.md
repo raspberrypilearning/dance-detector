@@ -6,9 +6,12 @@
   </div>
 </html>
 
+
 ### Add an action
 
 --- task ---
+
+Click the blue **+ Add action** button.
 
 Name the **first** action.
 
