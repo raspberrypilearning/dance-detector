@@ -1,24 +1,24 @@
-title: Dance detector
+title: Detektor tańca
 hero_image: images/banner.png
-description: Train a computer to help you perfect a dance move!
+description: Wytrenuj komputer, aby pomógł Ci udoskonalić Twoje taneczne ruchy!
 version: 4
 listed: true
 copyedit: true
 last_tested: "2024-07-02"
 steps:
   - 
-    title: What you will make
+    title: Co stworzysz
   - 
-    title: Set up your project
+    title: Skonfiguruj swój projekt
     completion:
       - engaged
   - 
-    title: Add samples
+    title: Dodaj próbki
   - 
-    title: Train the model
+    title: Wytrenuj model
     completion:
       - internal
   - 
-    title: What can you do now?
+    title: Co możesz teraz zrobić?
     completion:
       - external
