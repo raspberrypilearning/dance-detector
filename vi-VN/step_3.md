@@ -10,6 +10,8 @@
 
 \--- task ---
 
+Nhấp vào nút **+ Thêm hành động** màu xanh lam.
+
 Đặt tên cho hành động **đầu tiên**.
 
 Ví dụ của chúng tôi sử dụng tên `Disco`.
