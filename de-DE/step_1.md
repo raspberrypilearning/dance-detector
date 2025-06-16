@@ -17,4 +17,4 @@ Was du brauchen wirst:
 - Ein micro:bit V2
 - Ein micro:bit-Akkupack und 2 x AAA-Batterien
 - USB-Kabel
-- Ein Webbrowser, der WebUSB unterstützt, sodass du eine direkte Verbindung zu deinem micro:bit herstellen kannst. Wir empfehlen die Verwendung von Google Chrome oder Microsoft Edge.
+- Ein Webbrowser, der WebUSB unterstützt, damit du eine direkte Verbindung zu deinem micro:bit herstellen kannst. Wir empfehlen die Verwendung von Google Chrome oder Microsoft Edge.
