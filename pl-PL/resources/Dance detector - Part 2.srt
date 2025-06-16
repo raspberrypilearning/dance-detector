@@ -1,20 +1,20 @@
 1
 00:00:02,965 --> 00:00:03,900
-Name the first action
+Nazwij pierwszą akcję
 
 2
 00:00:04,417 --> 00:00:04,917
-Press B
+Naciśnij B
 
 3
 00:00:04,917 --> 00:00:07,604
-and record a one-second sample
+i nagraj jednosekundową próbkę
 
 4
 00:00:07,896 --> 00:00:09,750
-Repeat until you have ten samples
+Powtarzaj nagrywanie, aż będziesz mieć dziesięć próbek
 
 5
 00:00:10,296 --> 00:00:14,831
-Add a second action and record ten samples
+Dodaj drugą akcję i również nagraj dziesięć próbek
 
