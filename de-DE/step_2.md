@@ -1,4 +1,4 @@
-## Set up your project
+## Projekt einrichten
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,34 +6,34 @@
   </div>
 </html>
 
-### Create a new session
+### Erstelle eine neue Sitzung
 
-You will use an online machine learning platform.
+Du wirst eine Online-Plattform für maschinelles Lernen nutzen.
 
 \--- task ---
 
-Open [https://createai.microbit.org](https://createai.microbit.org/){:target="_blank"}.
+Öffne [https://createai.microbit.org](https://createai.microbit.org/){:target="_blank"}.
 
 \--- /task ---
 
 \--- task ---
 
-Click **Get started**
+Klicke auf **Get started** (Erste Schritte)
 
 \--- /task ---
 
-You will use your micro:bit to sense your movements and send the data to the online machine learning platform.
+Du wirst deinen micro:bit benutzen, um deine Bewegungen zu erfassen und die Daten an die Online-Plattform für maschinelles Lernen zu senden.
 
 \--- task ---
 
-Click **New session** and follow the instructions to connect your micro:bit.
+Klicke auf **New session** (Neue Sitzung) und folge den Anweisungen, um deinen micro:bit zu verbinden.
 
 \--- /task ---
 
 ## --- collapse ---
 
-## title: I do not have a battery pack
+## title: Ich habe kein Akku-Pack
 
-You can keep your micro:bit connected using USB, but the cable needs to be long enough to allow you to move freely with it.
+Du kannst dein micro:bit über USB angeschlossen lassen, das Kabel muss jedoch lang genug sein, damit du dich frei damit bewegen kannst.
 
 \--- /collapse ---
