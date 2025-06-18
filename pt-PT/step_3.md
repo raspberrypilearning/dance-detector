@@ -60,7 +60,7 @@ Adiciona mais exemplos da tua primeira ação, até teres pelo menos **10 exempl
 
 \--- task ---
 
-Clica no botão azul **+ Adicionar ação**.
+Adiciona exemplos da tua segunda ação, até teres pelo menos **10 exemplos**.
 
 Renomeia a **segunda** ação.
 
