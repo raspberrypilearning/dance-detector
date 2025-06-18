@@ -26,7 +26,7 @@ Ví dụ của chúng tôi sử dụng tên `Disco`.
 
 \--- task ---
 
-Hold your micro:bit and battery pack together in your hand.
+Giữ micro:bit và bộ pin cùng nhau trong tay.
 
 **Hãy nhớ** cách bạn cầm nó. Hãy đảm bảo bạn giữ nó như vậy ở phần sau của dự án này.
 
