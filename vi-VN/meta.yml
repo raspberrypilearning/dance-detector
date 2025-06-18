@@ -1,0 +1,20 @@
+---
+title: Máy phát hiện khiêu vũ
+hero_image: images/banner.png
+description: Đào tạo máy tính để giúp bạn hoàn thiện động tác nhảy!
+version: 4
+listed: true
+copyedit: true
+last_tested: "2024-07-02"
+steps:
+  - title: Những gì bạn sẽ làm
+  - title: Thiết lập dự án của bạn
+    completion:
+      - engaged
+  - title: Thêm mẫu
+  - title: Đào tạo mô hình
+    completion:
+      - internal
+  - title: Bạn có thể làm gì bây giờ?
+    completion:
+      - external
