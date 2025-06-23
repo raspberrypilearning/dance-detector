@@ -1,0 +1,20 @@
+---
+title: Tanz-Detektor
+hero_image: images/banner.png
+description: Trainiere einen Computer, um dir zu helfen, einen Tanzschritt zu perfektionieren!
+version: 4
+listed: true
+copyedit: true
+last_tested: "2024-07-02"
+steps:
+  - title: Das wirst du machen
+  - title: Projekt einrichten
+    completion:
+    - engaged
+  - title: Füge Beispiele hinzu
+  - title: Modell trainieren
+    completion:
+    - internal
+  - title: Wie geht es weiter?
+    completion:
+    - external
