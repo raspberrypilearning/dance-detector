@@ -15,6 +15,5 @@ steps:
   - title: Đào tạo mô hình
     completion:
       - internal
-  - title: Bạn có thể làm gì bây giờ?
     completion:
       - external
