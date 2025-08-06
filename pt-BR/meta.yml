@@ -18,7 +18,3 @@ steps:
     title: Crie palavras alienígenas
     completion:
       - internal
-  - 
-    title: O que você pode fazer agora?
-    completion:
-      - external
