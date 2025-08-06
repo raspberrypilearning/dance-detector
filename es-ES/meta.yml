@@ -17,8 +17,4 @@ steps:
   - 
     title: Entrenar el modelo.
     completion:
-      - internal
-  - 
-    title: What can you do now?
-    completion:
       - external
