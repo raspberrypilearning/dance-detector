@@ -1,4 +1,4 @@
-## Εκπαιδεύστε το μοντέλο
+## Εκπαίδευσε το μοντέλο
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -8,21 +8,21 @@
 
 \--- task ---
 
-Click the blue **Train model** button.
+Κάνε κλικ στο μπλε κουμπί **Train model**.
 
-![The 'Train model' button.](images/train-model-button.png)
+![Το κουμπί 'Train model'.](images/train-model-button.png)
 
 \--- /task ---
 
-### Preview and test
+### Προεπισκόπηση και δοκιμή
 
-See if your model can recognise your dance moves!
+Δες αν το μοντέλο σου μπορεί να αναγνωρίσει τις χορευτικές σου κινήσεις!
 
 \--- task ---
 
-Perform one of your actions and see what your model predicts (**estimates**) the action is.
+Εκτέλεσε μία από τις ενέργειές σου και δες τι προβλέπει (**εκτιμά**) το μοντέλο σου για την ενέργεια.
 
-You will see confidence (**certainty**) scores for your actions.
+Θα δείς βαθμολογίες εμπιστοσύνης (**βεβαιότητας**) για τις ενέργειές σου.
 
 \--- /task ---
 
