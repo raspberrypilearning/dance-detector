@@ -17,8 +17,4 @@ steps:
   - 
     title: Entrena el modelo
     completion:
-      - internal
-  - 
-    title: '¿Qué puedes hacer ahora?'
-    completion:
       - external
