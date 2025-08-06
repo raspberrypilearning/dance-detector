@@ -17,8 +17,4 @@ steps:
   - 
     title: Treina o modelo
     completion:
-      - internal
-  - 
-    title: O que se segue?
-    completion:
       - external
