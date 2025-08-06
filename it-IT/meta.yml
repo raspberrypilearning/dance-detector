@@ -18,7 +18,3 @@ steps:
     title: Addestra il modello
     completion:
       - internal
-  - 
-    title: Cosa puoi fare adesso?
-    completion:
-      - external
