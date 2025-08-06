@@ -17,8 +17,4 @@ steps:
   - 
     title: Modell trainieren
     completion:
-      - internal
-  - 
-    title: Wie geht es weiter?
-    completion:
       - external
