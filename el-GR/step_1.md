@@ -1,20 +1,20 @@
-## Εισαγωγή
+## Τι θα φτιάξεις
 
-![A machine learning interface testing a model for action recognition. In the center of the screen, a young boy is performing the "Disco" dance move, with one arm pointing upward. On the left side of the screen, the interface displays two possible recognised actions: "Disco" with a 95% certainty score and "Floss" with a 5% certainty score. At the bottom of the interface, a live graph with different colored lines tracks movement data. The interface indicates that the model has accurately identified the boy's action as "Disco" with high confidence. The top of the interface includes the steps: "1. Add data, 2. Train model, 3. Test model."](images/wywm.png)
+![Μια διεπαφή μηχανικής μάθησης που δοκιμάζει ένα μοντέλο για αναγνώριση δράσης. Στο κέντρο της οθόνης, ένα νεαρό αγόρι εκτελεί την κίνηση του χορού «Disco», με το ένα χέρι να δείχνει προς τα πάνω. Στην αριστερή πλευρά της οθόνης, η διεπαφή εμφανίζει δύο πιθανές αναγνωρισμένες ενέργειες: "Disco" με βαθμολογία βεβαιότητας 95% και "Floss" με βαθμολογία βεβαιότητας 5%. Στο κάτω μέρος της διεπαφής, ένα ζωντανό γράφημα με διαφορετικές έγχρωμες γραμμές παρακολουθεί τα δεδομένα κίνησης. Η διεπαφή υποδεικνύει ότι το μοντέλο έχει αναγνωρίσει με ακρίβεια την ενέργεια του αγοριού ως «Disco» με μεγάλη σιγουριά. Το επάνω μέρος της διεπαφής περιλαμβάνει τα βήματα: "1. Προσθήκη δεδομένων, 2. Εκπαίδευση μοντέλου, 3. Δοκιμή μοντέλου."](images/wywm.png)
 
-Train a computer to help you perfect a dance move!
+Εκπαίδευσε έναν υπολογιστή για να σε βοηθήσει να τελειοποιήσεις μια χορευτική κίνηση!
 
 ## --- collapse ---
 
-## title: No YouTube? Download the videos!
+## title: Δεν υπάρχει πρόβαση στο YouTube; Κάνε λήψη των βίντεο!
 
-You can [download all the videos for this project](https://rpf.io/p/en/dance-detector-go){:target="_blank"}.
+Μπορείς να [κατεβάσεις όλα τα βίντεο γι' αυτό το έργο](https://rpf.io/p/en/dance-detector-go){:target="_blank"}.
 
 \--- /collapse ---
 
 Θα χρειαστείς:
 
-- A micro:bit V2
-- A micro:bit battery pack and 2 x AAA batteries
-- USB cable
-- A web browser that supports WebUSB so you can connect directly to your micro:bit. We recommend using Google Chrome or Microsoft Edge.
+- Ένα micro:bit V2
+- Μια μπαταρία micro:bit και 2 μπαταρίες AAA
+- Καλώδιο USB
+- Ένα πρόγραμμα περιήγησης ιστού που υποστηρίζει WebUSB, ώστε να μπορείς να συνδεθείς απευθείας στο micro:bit σου. Συνιστούμε τη χρήση του Google Chrome ή του Microsoft Edge.
