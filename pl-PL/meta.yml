@@ -17,8 +17,4 @@ steps:
   - 
     title: Wytrenuj model
     completion:
-      - internal
-  - 
-    title: Co możesz teraz zrobić?
-    completion:
       - external
