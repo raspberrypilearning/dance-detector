@@ -17,4 +17,4 @@ steps:
   - 
     title: Εκπαίδευσε το μοντέλο
     completion:
-      - εξωτερικός
+      - external
