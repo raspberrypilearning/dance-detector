@@ -1,24 +1,20 @@
-title: Dance detector
+title: Ανιχνευτής χορού
 hero_image: images/banner.png
-description: Train a computer to help you perfect a dance move!
+description: Εκπαίδευσε έναν υπολογιστή για να σε βοηθήσει να τελειοποιήσεις μια χορευτική κίνηση!
 version: 4
 listed: true
 copyedit: true
 last_tested: "2024-07-02"
 steps:
   - 
-    title: Εισαγωγή
+    title: Τι θα φτιάξεις
   - 
-    title: Set up your project
+    title: Ρύθμισε το έργο σου
     completion:
       - engaged
   - 
-    title: Add samples
+    title: Πρόσθεσε δείγματα
   - 
-    title: Εκπαιδεύστε το μοντέλο
+    title: Εκπαίδευσε το μοντέλο
     completion:
-      - internal
-  - 
-    title: Αναστοχασμός
-    completion:
-      - internal
+      - εξωτερικός
