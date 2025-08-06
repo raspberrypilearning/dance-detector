@@ -1,4 +1,4 @@
-## Add samples
+## Πρόσθεσε δείγματα
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,39 +6,39 @@
   </div>
 </html>
 
-### Add an action
+### Πρόσθεσε μία ενέργεια
 
 \--- task ---
 
-Click the blue **+ Add action** button.
+Κάνε κλικ στο μπλε κουμπί **+ Add action**.
 
-Name the **first** action.
+Ονόμασε την **πρώτη** ενέργεια.
 
-Our example uses the name `Disco`.
+Το παράδειγμά μας χρησιμοποιεί το όνομα `Disco`.
 
-![Screenshot showing the name of an action](images/action.png)
+![Στιγμιότυπο οθόνης που δείχνει το όνομα μιας ενέργειας](images/action.png)
 
 \--- /task ---
 
-### Add data samples
+### Πρόσθεσε δείγματα δεδομένων
 
-It is important you always hold the micro:bit the same way.
+Είναι σημαντικό να κρατάς πάντα το micro:bit με τον ίδιο τρόπο.
 
 \--- task ---
 
-Hold your micro:bit and battery pack together in your hand.
+Κράτησε το micro:bit και την μπαταρία μαζί στο χέρι σου.
 
-**Remember** how you hold it. Make sure you hold it like this later in this project.
+**Θυμήσου** πώς το κρατάς. Βεβαιώσου ότι θα το κρατήσεις έτσι αργότερα σε αυτό το έργο.
 
 \--- /task ---
 
-Each action can be 1 second long.
+Κάθε ενέργεια μπορεί να έχει διάρκεια 1 δευτερόλεπτο.
 
 \--- task ---
 
-Press button B, wait for the countdown, then make your first 1-second action.
+Πάτησε το κουμπί B, περίμενε την αντίστροφη μέτρηση και, στη συνέχεια, κάνε την πρώτη σου ενέργεια 1 δευτερολέπτου.
 
-This example shows a `Disco` action, but you can do whatever action you want!
+Αυτό το παράδειγμα δείχνει μια ενέργεια `Disco`, αλλά μπορείς να κάνεις όποια ενέργεια θέλεις!
 
 <video width="360" height="640" controls>
   <source src="images/disco.mp4" type="video/mp4" alt="A video of young person recording samples of a dance move">
@@ -50,29 +50,29 @@ Your browser does not support the video tag.
 
 \--- task ---
 
-Add more samples of your first action, until you have at least **10 samples**.
+Πρόσθεσε περισσότερα δείγματα της πρώτης σου ενέργειας, μέχρι να έχεις τουλάχιστον **10 δείγματα**.
 
-![Screenshot showing 10 samples of an action](images/disco10.png)
-
-\--- /task ---
-
-### Add a second action
-
-\--- task ---
-
-Click the blue **+ Add action** button.
-
-Name the **second** action.
-
-Our example uses the name `Floss`.
+![Στιγμιότυπο οθόνης που δείχνει 10 δείγματα μιας ενέργειας](images/disco10.png)
 
 \--- /task ---
 
+### Πρόσθεσε μία δεύτερη ενέργεια
+
 \--- task ---
 
-Add samples of your second action, until you have at least **10 samples**.
+Κάνε κλικ στο μπλε κουμπί **+ Add action**.
 
-This example shows a `Floss` action, but you can do whatever action you want!
+Ονόμασε την **δεύτερη** ενέργεια.
+
+Το παράδειγμά μας χρησιμοποιεί το όνομα `Floss`.
+
+\--- /task ---
+
+\--- task ---
+
+Πρόσθεσε δείγματα της δεύτερης σου ενέργειας, μέχρι να έχεις τουλάχιστον **10 δείγματα**.
+
+Αυτό το παράδειγμα δείχνει μια ενέργεια `Floss`, αλλά μπορείς να κάνεις όποια ενέργεια θέλεις!
 
 <video width="360" height="640" controls>
   <source src="images/floss.mp4" type="video/mp4" alt="A video of young person recording samples of a dance move">
