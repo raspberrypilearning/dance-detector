@@ -17,8 +17,4 @@ steps:
   - 
     title: एलियन शब्द बनाएं
     completion:
-      - internal
-  - 
-    title: आगे क्या?
-    completion:
       - external
