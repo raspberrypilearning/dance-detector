@@ -1,0 +1,19 @@
+---
+title: Detector de dança
+hero_image: images/banner.png
+description: Treine um computador para ajudá-lo a aperfeiçoar um movimento de dança!
+version: 4
+listed: true
+copyedit: true
+last_tested: "2024-07-02"
+steps:
+  - title: O que você vai fazer
+  - title: Prepare seu projeto
+    completion:
+    - engaged
+  - title: Adicione amostras
+  - title: Treine o modelo
+    completion:
+    - internal
+    completion: 
+    - external
