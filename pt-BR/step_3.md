@@ -41,7 +41,7 @@ Pressione o botão B, aguarde a contagem regressiva e depois faça sua primeira 
 Este exemplo mostra uma ação `Disco`, mas você pode fazer qualquer ação que quiser!
 
 <video width="360" height="640" controls>
-  <source src="images/disco.mp4" type="video/mp4" alt="Um vídeo de uma pessoa jovem gravando amostras de um passo de dança.">
+  <source src="images/disco.mp4" type="video/mp4" alt="A video of young person recording samples of a dance move">
 Your browser does not support the video tag.
 </video>
 
@@ -74,7 +74,7 @@ Adicione mais amostras de sua segunda ação, até você ter pelo menos **10 amo
 Este exemplo mostra uma ação `Floss`, mas você pode fazer qualquer ação que quiser!
 
 <video width="360" height="640" controls>
-  <source src="images/floss.mp4" type="video/mp4" alt="Um vídeo de uma pessoa jovem gravando amostras de um passo de dança.">
+  <source src="images/floss.mp4" type="video/mp4" alt="A video of young person recording samples of a dance move">
 Your browser does not support the video tag.
 </video>
 

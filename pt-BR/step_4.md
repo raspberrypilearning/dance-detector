@@ -27,6 +27,6 @@ Você verá pontuações de confiança (**certeza**) para suas ações.
 --- /task ---
 
 <video width="640" height="360" controls>
-  <source src="images/discotest.mp4" type="video/mp4" alt="Uma gravação de tela mostrando a ação estimada durante o teste, com uma sobreposição de um garoto executando o passo de dança.">
+  <source src="images/discotest.mp4" type="video/mp4" alt="A screen recording showing the estimated action during testing with an overlay of a boy performing the dance move">
 Your browser does not support the video tag.
 </video>
