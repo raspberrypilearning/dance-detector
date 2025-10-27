@@ -28,6 +28,5 @@ Você verá pontuações de confiança (**certeza**) para suas ações.
 
 <video width="640" height="360" controls>
   <source src="images/discotest.mp4" type="video/mp4" alt="Uma gravação de tela mostrando a ação estimada durante o teste, com uma sobreposição de um garoto executando o passo de dança.">
-  
 Your browser does not support the video tag.
 </video>
