@@ -32,7 +32,7 @@ Clique em **Nova sessão** e siga as instruções para conectar seu micro:bit.
 
 --- collapse ---
 ---
-título: Não tenho um pacote de bateria
+title: Não tenho um pacote de bateria
 ---
 
 Você pode manter seu micro:bit conectado via USB, mas o cabo precisa ser longo o suficiente para permitir que você se mova livremente com ele.
