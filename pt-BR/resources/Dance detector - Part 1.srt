@@ -4,17 +4,17 @@ Acesse createai.microbit.org
 
 2
 00:00:05,560 --> 00:00:07,425
-and click 'Get started'
+e clique em "Começar"
 
 3
 00:00:07,425 --> 00:00:08,559
-Start a new session
+Iniciar uma nova sessão
 
 4
 00:00:08,559 --> 00:00:11,172
-and follow the instructions to set up your micro:bit
+e siga as instruções para configurar seu micro:bit
 
 5
 00:00:11,172 --> 00:00:12,124
-[music to end...]
+[música para finalizar...]
 
