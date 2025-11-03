@@ -26,7 +26,7 @@ Es importante que siempre sostengas el micro:bit de la misma manera.
 
 \--- task ---
 
-Hold your micro:bit and battery pack together in your hand.
+Mantén el micro:bit y el paquete de batería juntos en tu mano.
 
 **Recuerda** cómo lo sostienes. Asegúrate de sostenerlo así luego en este proyecto.
 
