@@ -6,34 +6,34 @@
   </div>
 </html>
 
-### Create a new session
+### Criar uma nova sessão
 
-You will use an online machine learning platform.
+Você usará uma plataforma de aprendizado de máquina online.
 
 \--- task ---
 
-Open [https://createai.microbit.org](https://createai.microbit.org/){:target="_blank"}.
+Abra [https://createai.microbit.org](https://createai.microbit.org/){:target="_blank"}.
 
 \--- /task ---
 
 \--- task ---
 
-Click **Get started**
+Clique em **Começar**
 
 \--- /task ---
 
-You will use your micro:bit to sense your movements and send the data to the online machine learning platform.
+Você usará seu micro:bit para detectar seus movimentos e enviar os dados para a plataforma de aprendizado de máquina online.
 
 \--- task ---
 
-Click **New session** and follow the instructions to connect your micro:bit.
+Clique em **Nova sessão** e siga as instruções para conectar seu micro:bit.
 
 \--- /task ---
 
 ## --- collapse ---
 
-## title: I do not have a battery pack
+## título: Não tenho um pacote de bateria
 
-You can keep your micro:bit connected using USB, but the cable needs to be long enough to allow you to move freely with it.
+Você pode manter seu micro:bit conectado via USB, mas o cabo precisa ser longo o suficiente para permitir que você se mova livremente com ele.
 
 \--- /collapse ---
