@@ -1,4 +1,4 @@
-## Crie palavras alienígenas
+## Treinar o modelo
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -8,21 +8,21 @@
 
 \--- task ---
 
-Click the blue **Train model** button.
+Clique no botão azul **Treinar modelo**.
 
-![The 'Train model' button.](images/train-model-button.png)
+![Botão 'Treinar Modelo'.](images/train-model-button.png)
 
 \--- /task ---
 
-### Preview and test
+### Pré-visualizar e testar
 
-See if your model can recognise your dance moves!
+Veja se sua modelo consegue reconhecer seus movimentos de dança!
 
 \--- task ---
 
-Perform one of your actions and see what your model predicts (**estimates**) the action is.
+Execute uma de suas ações e veja o que seu modelo prevê (**estima**) que a ação é.
 
-You will see confidence (**certainty**) scores for your actions.
+Você verá pontuações de confiança (**certeza**) para suas ações.
 
 \--- /task ---
 
