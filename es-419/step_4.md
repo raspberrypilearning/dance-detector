@@ -20,7 +20,7 @@ Haga clic en el botón azul **Entrenar modelo**.
 
 \--- task ---
 
-Realiza una de tus acciones y ve que tu modelo predice (**estimaciones**) la acción.
+Realiza una de tus acciones y observa lo que tu modelo predice (**estima**) que es la acción.
 
 Verás las puntuaciones de confianza (**certeza**) para tus acciones.
 
