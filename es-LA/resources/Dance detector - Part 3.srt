@@ -1,0 +1,12 @@
+1
+00:00:03,617 --> 00:00:07,726
+Entrena a tu modelo
+
+2
+00:00:08,778 --> 00:00:09,324
+Prueba
+
+3
+00:00:09,328 --> 00:00:13,000
+y mira si tu modelo puede reconocer tus movimientos de baile
+
