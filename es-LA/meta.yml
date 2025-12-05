@@ -1,0 +1,18 @@
+title: Detector de baile
+hero_image: images/banner.png
+description: '¡Entrena a una computadora para que te ayude a perfeccionar un paso de baile!'
+version: 4
+listed: true
+copyedit: true
+last_tested: "2024-07-02"
+steps:
+  - title: Lo que harás
+  - title: Configura tu proyecto
+    completion:
+    - engaged
+  - title: Agrega muestras
+  - title: Entrena el modelo
+    completion:
+    - internal
+    completion: 
+    - external
