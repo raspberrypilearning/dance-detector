@@ -1,6 +1,6 @@
 1
 00:00:02,965 --> 00:00:03,900
-Nombre la primera acción
+Nombra la primera acción
 
 2
 00:00:04,417 --> 00:00:04,917
@@ -12,7 +12,7 @@ y grabar una muestra de un segundo
 
 4
 00:00:07,896 --> 00:00:09,750
-Repetir hasta que tengas diez muestras
+Repite hasta que tengas diez muestras
 
 5
 00:00:10,296 --> 00:00:14,831
