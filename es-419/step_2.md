@@ -8,11 +8,11 @@
 
 ### Crear una sesión nueva
 
-Utilizarás una plataforma de machine learning en línea.
+Utilizarás una plataforma de aprendizaje automático en línea.
 
 \--- task ---
 
-Abrir [https://createai.microbit.org](https://createai.microbit.org/){:target="_blank"}.
+Abre [https://createai.microbit.org](https://createai.microbit.org/){:target="_blank"}.
 
 \--- /task ---
 
@@ -22,11 +22,11 @@ Haga clic en **Comenzar**
 
 \--- /task ---
 
-Utilizarás tu micro:bit para identificar tus movimientos y enviar lainformación a la plataforma de machine learning en línea.
+Utilizarás tu micro:bit para detectar tus movimientos y enviar los datos a la plataforma de aprendizaje automático en línea.
 
 \--- task ---
 
-Haga clic en **Nueva sesión** y siga las instrucciones para conectar su micro:bit.
+Haz clic en **Nueva sesión** y sigue las instrucciones para conectar tu micro:bit.
 
 \--- /task ---
 
