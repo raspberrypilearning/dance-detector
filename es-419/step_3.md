@@ -6,7 +6,7 @@
   </div>
 </html>
 
-### Añadir una acción
+### Añade una acción
 
 \--- task ---
 
@@ -16,11 +16,11 @@ Nombra la **primera** acción.
 
 Nuestro ejemplo usa el nombre `Disco`.
 
-![Captura de pantalla que mostrando el nombre de una acción](images/action.png)
+![Captura de pantalla mostrando el nombre de una acción](images/action.png)
 
 \--- /task ---
 
-### Añadir muestras de datos
+### Añade muestras de datos
 
 Es importante que siempre sostengas el micro:bit de la misma manera.
 
@@ -55,7 +55,7 @@ Añade más muestras de tu primera acción, hasta que tengas al menos **10 muest
 
 \--- /task ---
 
-### Añadir una segunda acción
+### Añade una segunda acción
 
 \--- task ---
 
@@ -63,7 +63,7 @@ Haga clic en el botón azul **+ Agregar acción**.
 
 Nombra la **segunda** acción.
 
-Nuestro ejemplo utiliza el nombre "Floss".
+Nuestro ejemplo utiliza el nombre `Floss`.
 
 \--- /task ---
 
@@ -71,7 +71,7 @@ Nuestro ejemplo utiliza el nombre "Floss".
 
 Añade muestras de tu segunda acción, hasta que tengas al menos **10 muestras**.
 
-Este ejemplo muestra una acción 'Floss', ¡pero puedes hacer cualquier acción que quieras!
+Este ejemplo muestra una acción `Floss`, ¡pero puedes hacer cualquier acción que quieras!
 
 <video width="360" height="640" controls>
   <source src="images/floss.mp4" type="video/mp4" alt="A video of young person recording samples of a dance move">
